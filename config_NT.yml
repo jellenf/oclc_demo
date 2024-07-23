@@ -1,0 +1,9 @@
+#config_NT.yml
+authorizationUrl: https://oauth.oclc.org/auth
+tokenUrl: https://oauth.oclc.org/token
+#
+# New Titles API
+scope: new-titles
+baseUrl: https://discovery.api.oclc.org
+key: 
+secret: 
